@@ -1,9 +1,9 @@
 {
   "name": "@tsnomad/rest",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Controller, middleware, interceptor and validation contracts with the REST lifecycle runner, the TypeScript counterpart to PHPNomad's rest package",
   "type": "module",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "homepage": "https://github.com/tsnomad/rest#readme",
   "bugs": {
     "url": "https://github.com/tsnomad/rest/issues"
